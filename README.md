@@ -21,3 +21,8 @@
 2. Open the HTML files in a browser.
 
 3. No server or setup required.
+
+## How to Run in Mobile/Phone
+  -- Use this link to open in Mobile/Phone:
+    ```
+   https://jahnavi314.github.io/ntwist-frontend-assignment/
